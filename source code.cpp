@@ -1,8 +1,3 @@
-//TEAM MEMBERS :
-//AP21110010342 - TADEKORU MANOJ KUMAR
-//AP21110010343 - LAKSHMI ABHIGNA MATTAY
-//AP21110010344 - BOLLAPRAGADA V S SARATH CHANDRA
-//AP21110010345 - ABHISHIKTA DATTA
 #include<iostream>
 #include<fstream>
 #include<sstream>
@@ -108,9 +103,9 @@ class BMI
         {
             cout<<"You're in over weight range "<<endl<<endl;
             cout<<"Best Tips From Diet Plan For Overweight People"<<endl;
-            cout<<"Cut Down On Carbohydrates\nIncrease The Protein Intake\nKeep Fat To A Minimum\nEat Less Energy – Dense Foods\n";
+            cout<<"Cut Down On Carbohydrates\nIncrease The Protein Intake\nKeep Fat To A Minimum\nEat Less Energy â€“ Dense Foods\n";
             cout<<"Opt for foods that are high in fiber and water and low in calories.\nEat Frequently In Smaller Portions\n";
-            cout<<"Reduce The Intake Of Salt\nEat Right Post – Workout\nUnderstand Your Daily Calorie Allowance\nEat Catechins To Stimulate Fat Burning\n";
+            cout<<"Reduce The Intake Of Salt\nEat Right Post â€“ Workout\nUnderstand Your Daily Calorie Allowance\nEat Catechins To Stimulate Fat Burning\n";
             cout<<"Get Enough Calcium\n\n";
             cout<<"Recommended foods:\n";
             cout<<"1.Egg whites: There is no cholesterol or fat and they are pure protein. \nBesides, they are very easy to make, you just need a couple of minutes to make dishes with egg whites.\n";
